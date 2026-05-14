@@ -112,3 +112,24 @@ Building scalable digital products and documenting the entire creative process f
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:0f172a,100:111827&text=BUILDING%20VISUAL%20SYSTEMS%20•%20DESIGNING%20DIGITAL%20FUTURES&fontSize=22&fontColor=22c55e&animation=fadeIn"/>
 </div>
+---
+
+<div align="center">
+
+<!-- 🔥 UPDATED FUTURISTIC FOOTER (NEW SYSTEM STYLE) -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:0f172a,50:2563eb,100:22c55e&text=BUILDING%20VISUAL%20SYSTEMS&fontSize=22&fontColor=ffffff&animation=fadeIn"/>
+
+<br>
+
+<span style="font-family:Orbitron; font-weight:800; font-size:16px; background:linear-gradient(90deg,#22c55e,#2563eb); -webkit-background-clip:text; -webkit-text-fill-color:transparent;">
+DESIGNING DIGITAL FUTURES • CREATING IMMERSIVE EXPERIENCES
+</span>
+
+<br><br>
+
+<span style="color:#94a3b8; font-size:12px;">
+ZEOREXT — Creative Systems • UI Architecture • Visual Engineering
+</span>
+
+</div>

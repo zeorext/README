@@ -1,3 +1,29 @@
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:2563eb,100:22c55e&text=ZEOREXT&fontSize=70&fontAlign=50&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Art%20•%20Creative%20•%20Technology&descAlignY=60"/><br><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Digital+Artist+%7C+Concept+Art;UI%2FUX+Designer+%7C+Creative+Developer;Building+Visual+Worlds+Through+Technology"/><br><br>
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,blender,html,css,js,nodejs,vscode"/></div>---
+
+<div align="center">ABOUT
+
+</div><div align="center">Creative developer working at the intersection of
+art, design, and technology.
+
+From cinematic concept visuals to interfaces and code,
+everything I create is driven by curiosity, storytelling, and visual identity.
+
+</div><br>---
+
+<div align="center">CURRENT FOCUS
+
+</div>> Futuristic UI/UX systems
+> Concept Art & Worldbuilding
+> Creative Front-End Experiences
+> Digital Visual Identity
+> Interactive Creative Technology
+
+---
+
+----------------------------------------------------------------------
+
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:2563eb,100:22c55e&text=ZEOREXT&fontSize=70&fontAlign=50&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Art%20•%20Creative%20•%20Technology&descAlignY=60"/><br>
 

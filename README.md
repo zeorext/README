@@ -46,7 +46,7 @@ art, design, and technology.
 From cinematic concept visuals to interfaces and code,
 everything I create is driven by curiosity, storytelling, and visual identity.
 
-</div><br>---
+</div><br>
 
 ---
 
